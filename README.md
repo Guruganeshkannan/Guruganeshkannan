@@ -55,13 +55,16 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Guruganeshkannan/Guruganeshkannan/output/snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guruganeshkannan/Guruganeshkannan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guruganeshkannan/Guruganeshkannan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Guruganeshkannan/Guruganeshkannan/output/github-snake.svg" />
+</picture>
 ###
 
 <h3 align="left">Social media:</h3>
 
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/guruganeshkannan/" target="_blank">
@@ -79,7 +82,7 @@
 </div>
 
 ###
-
+<h3 align="left">Profile Viewed Count:</h3>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Guruganeshkannan/count.svg?"  />
 </div>
