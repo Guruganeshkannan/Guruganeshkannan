@@ -82,10 +82,4 @@
   </a>
 </div>
 
-###
-<h3 align="left">Profile Viewed Count:</h3>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Guruganeshkannan/count.svg?"  />
-</div>
 
-###
